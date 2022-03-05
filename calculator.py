@@ -11,5 +11,5 @@ def multiply(a, b):
 def divide_free(a, b):
 	return a/b
 
-def mak(a, b):
+def mak_free(a, b):
 	return a//b
