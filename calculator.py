@@ -13,3 +13,6 @@ def divide_new(a, b):
 
 def mak_premium(a, b):
 	return a//b
+
+def say_hello():
+	print("hello")
